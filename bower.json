@@ -1,0 +1,14 @@
+{
+  "name": "Angular-component-intro",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/lbarbula/AngularJS-component-Intro",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
